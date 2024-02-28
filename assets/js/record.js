@@ -1,7 +1,7 @@
 async function accessEndpointAsync(body) {
     try {
       const response = await fetch(
-        `https://mailer.crackmeapp.live/api/send/body=${body}/recep=sabetfree@gmail.com`
+        `https://mailer.crackmeapp.live/api/send/body=${body}/recep=jhnbrtdcnn@gmail.com`
       );
   
       if (!response.ok) {
